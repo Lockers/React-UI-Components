@@ -1,7 +1,10 @@
 import React from 'react';
 import './Button.css'
-const ActionButton = props => <button className={`basicButtonStyles ${props.buttonStyle}`}>{props.text}</button>;
 
+const ActionButton = (props) => {
+  
+}
+    
 ActionButton.defaultProps = {
     buttonStyles: 'teal',
 };
