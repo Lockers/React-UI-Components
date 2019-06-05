@@ -1,0 +1,9 @@
+.main-container{
+    display: flex;
+    max-width: 400px;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    font-size: 200%;
+}
+
+
